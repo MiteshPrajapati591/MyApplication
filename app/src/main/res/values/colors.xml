@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorBlack1A">#1A000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+
+
+    <color name="purple_700">#FF3700B3</color>
+    <color name="purple_200">#FF3700B3</color>
+    <color name="black">#FF000000</color>
+    <color name="purple_500">#FF000000</color>
+    <color name="white">#FFFF</color>
+    <color name="teal_200">#FF000000</color>
+    <color name="teal_700">#FF000000</color>
+
+    <color name="colorPrimary">@color/blue_1</color>
+    <color name="colorPrimaryDark">@color/blue_1</color>
+    <color name="colorAccent">@color/blue_5</color>
+
+    <color name="blue_1">#00101f</color>
+    <color name="blue_5">#0078ff</color>
+
+
+    <color name="colorBlueTheme0C">#0C5DB8</color>
+    <color name="colorBlueThemeBA0C">#BA0C5DB8</color>
+    <color name="colorBlack1C">#1C2127</color>
+    <color name="colorBlackD91C">#D91C2127</color>
+    <color name="colorBlue14">#1447A3</color>
+    <color name="colorBlue40">#40A1FF</color>
+    <color name="colorGreyDA">#DAE1E5</color>
+    <color name="colorGreyF0">#F0F9FF</color>
+    <color name="colorGreyF2">#F2F3F5</color>
+    <color name="colorGrey66">#666C7E</color>
+    <color name="colorGrey8B">#8B8E93</color>
+    <color name="colorGreyD98B">#D98B8E93</color>
+    <color name="colorGrey30">#303842</color>
+    <color name="colorGreyC5">#C5C9CD</color>
+    <color name="colorGreyA2">#A2A2A2</color>
+    <color name="colorGrey70">#707070</color>
+    <color name="colorGrey71">#71768A</color>
+    <color name="colorGreyC9">#C9C9C9</color>
+    <color name="colorGreyF6">#F6F8F9</color>
+    <color name="colorGreyF7">#F7F5F5</color>
+    <color name="colorGrey94">#94A1A0</color>
+    <color name="colorGrey83">#838EA0</color>
+    <color name="colorGreen3A">#3AB148</color>
+    <color name="colorGreen3A10">#193AB148</color>
+    <color name="colorRedB5">#B51616</color>
+    <color name="colorRedCD">#CD1B2B</color>
+    <color name="colorGreyDD">#DDE1E3</color>
+    <color name="colorGrey72">#727272</color>
+    <color name="colorGrey23">#232B3B</color>
+    <color name="colorBlack01">#010F2C</color>
+    <color name="colorBlack23">#23282E</color>
+    <color name="colorGreen18">#18A834</color>
+    <color name="colorRedEF">#EF747F</color>
+    <color name="colorBlack08">#081D31</color>
+    <color name="colorGrey4E">#4E6377</color>
+    <color name="colorGreyBE">#BED0DD</color>
+    <color name="colorLiteBlue0E">#0E86D4</color>
+    <color name="colorLiteBlue7E">#7EC8E3</color>
+    <color name="colorLiteBlue05">#055C9D</color>
+
+</resources>
